@@ -113,3 +113,21 @@ K
 home/apps.py,d\6\d65e33e3959123bb1f464d16a66fad0bc016627c
 =
 home/admin.py,9\b\9b3974d4482cf76e2c3a80abffd17920edfcdfe0
+C
+templates/base.html,d\a\da7c237b85a69c00a9ab8c189bf63e22070fcac3
+P
+ templates/includes/main-nav.html,8\d\8d16971be1a9dc5a591f6c755d4ac8677c65bcec
+H
+boutique_ado/settings.py,3\a\3aeb8b1ba77bcf780dd17628a2b48060320aa4cd
+S
+#products/migrations/0001_initial.py,f\b\fbe92ee7830d289b5316832350e5c7df4424940d
+O
+products/migrations/__init__.py,6\f\6f389171a3bb25446a30aeea5632a065dc15ecc1
+D
+products/__init__.py,f\2\f20db3426e22e5cf9c58baef096089c207f355d3
+A
+products/views.py,e\7\e7c0df80dbe407ceab2293cb3ce846b3cc0b1733
+A
+products/tests.py,7\3\7320e14c1d2aebd2a97005b341ebdaa5c95a66e9
+@
+products/apps.py,4\7\47f9e288a5699272d2f47a8a37d61a4bc2291229
